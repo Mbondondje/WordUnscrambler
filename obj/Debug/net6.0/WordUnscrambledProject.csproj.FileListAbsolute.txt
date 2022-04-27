@@ -1,0 +1,16 @@
+C:\CSharpProjects\WordUnscrambledProject\bin\Debug\net6.0\WordUnscrambledProject.exe
+C:\CSharpProjects\WordUnscrambledProject\bin\Debug\net6.0\WordUnscrambledProject.dll.config
+C:\CSharpProjects\WordUnscrambledProject\bin\Debug\net6.0\WordUnscrambledProject.deps.json
+C:\CSharpProjects\WordUnscrambledProject\bin\Debug\net6.0\WordUnscrambledProject.runtimeconfig.json
+C:\CSharpProjects\WordUnscrambledProject\bin\Debug\net6.0\WordUnscrambledProject.dll
+C:\CSharpProjects\WordUnscrambledProject\bin\Debug\net6.0\WordUnscrambledProject.pdb
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.csproj.AssemblyReference.cache
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.AssemblyInfoInputs.cache
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.AssemblyInfo.cs
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.dll
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\refint\WordUnscrambledProject.dll
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.pdb
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\WordUnscrambledProject.genruntimeconfig.cache
+C:\CSharpProjects\WordUnscrambledProject\obj\Debug\net6.0\ref\WordUnscrambledProject.dll
