@@ -54,6 +54,7 @@ namespace WordUnscrambler
 
                 } while (continueWordUnscramle);
             }
+            
             catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);
